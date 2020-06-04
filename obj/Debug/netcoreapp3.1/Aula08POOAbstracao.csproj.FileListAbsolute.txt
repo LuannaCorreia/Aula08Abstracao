@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.exe
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.deps.json
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.dll
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\bin\Debug\netcoreapp3.1\Aula08POOAbstracao.pdb
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\obj\Debug\netcoreapp3.1\Aula08POOAbstracao.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\obj\Debug\netcoreapp3.1\Aula08POOAbstracao.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\obj\Debug\netcoreapp3.1\Aula08POOAbstracao.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\obj\Debug\netcoreapp3.1\Aula08POOAbstracao.dll
+C:\Users\Senai132\Desktop\Aula08POOAbstracao\obj\Debug\netcoreapp3.1\Aula08POOAbstracao.pdb
